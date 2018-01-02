@@ -5,6 +5,7 @@
     <lastmod>2018-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://iconicnaz.com/phone/index.html"/>
     <image:image>
       <image:loc>http://iconicnaz.com/images/in-logo.png</image:loc>
     </image:image>
